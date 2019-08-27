@@ -1,0 +1,24 @@
+Uri: https://emojikeyboard.top/
+File Name: c:\Downloaded Web Sites\emojikeyboard.top\index.htm
+Content Type: text/html
+
+Uri: https://emojikeyboard.top/de/
+File Name: c:\Downloaded Web Sites\emojikeyboard.top\de\index.htm
+Content Type: text/html
+
+Uri: https://emojikeyboard.top/fr/
+File Name: c:\Downloaded Web Sites\emojikeyboard.top\fr\index.htm
+Content Type: text/html
+
+Uri: https://emojikeyboard.top/it/
+File Name: c:\Downloaded Web Sites\emojikeyboard.top\it\index.htm
+Content Type: text/html
+
+Uri: https://emojikeyboard.top/es/
+File Name: c:\Downloaded Web Sites\emojikeyboard.top\es\index.htm
+Content Type: text/html
+
+Uri: https://emojikeyboard.top/pt/
+File Name: c:\Downloaded Web Sites\emojikeyboard.top\pt\index.htm
+Content Type: text/html
+
